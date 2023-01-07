@@ -21,5 +21,5 @@ The objective of this problem is to understand which parameters play an importan
 
 Based on exploratory analysis of the data, exploratory model testing, and previous experience; an XGBoost model was selected to solve this challenge. On that exploratory phase, the logic behind feature engineering/transformation was addressed. Also, other models were used to validate the relative importance of the features.
 
-This notebook will reflect these transformations and analysis-based decisions. However, the focus will be to show the training and hyperparameter tuning of the XGB model.
+The posted notebook will reflect these transformations and analysis-based decisions. However, the focus will be to show the training and hyperparameter tuning of the XGB model. I plan to upload the data alaysis notebook soon.
 
