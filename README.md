@@ -8,7 +8,7 @@
 
 ## OBJECTIVE: Predict whether a passenger was satisfied or not considering his/her overall experience of traveling on the Shinkansen Bullet Train
 
-This problem aims to determine the relative importance of each parameter of the provided data with regards to their contribution to the passenger's overall travel experience.
+This problem aims to determine the relative importance of each parameter of the provided data regarding their contribution to the passenger's overall travel experience.
 
 The on-time performance of the trains along with passenger information is published in a file. These passengers were later asked to provide their feedback on various parameters related to the travel along with their overall experience. These collected details are made available in the survey report.
 
@@ -19,7 +19,7 @@ The objective of this problem is to understand which parameters play an importan
 
 ## Main Idea
 
-Based on exploratory analysis of the data, exploratory model testing, and previous experience; an XGBoost model was selected to solve this challenge. On that exploratory phase, the logic behind feature engineering/transformation was addressed. Also, other models were used to validate the relative importance of the features.
+Based on exploratory analysis of the data, exploratory model testing, and previous experience; an XGBoost model was selected to solve this challenge. In that exploratory phase, the logic behind feature engineering/transformation was addressed. Also, other models were used to validate the relative importance of the features.
 
-The posted notebook will reflect these transformations and analysis-based decisions. However, the focus will be to show the training and hyperparameter tuning of the XGB model. I plan to upload the data alaysis notebook soon.
+The posted notebook will reflect these transformations and analysis-based decisions. However, the focus will be to show the training and hyperparameter tuning of the XGB model. I plan to upload the data analysis as well.
 
